@@ -1,6 +1,6 @@
 {
   "verbose": true,
-  "firefox_profile": "",
+  "maxinfocus@gmail.com": "KtTvR769#D%",
   "headless": false,
   "twitter_language": "English",
   "llm": "gpt4",
@@ -13,14 +13,14 @@
   "email": {
     "smtp_server": "smtp.gmail.com",
     "smtp_port": 587,
-    "username": "",
-    "password": ""
+    "username": "415265001@smtp-brevo.com",
+    "password": "Y3QaK7UPtgcGNC84"
   },
   "google_maps_scraper_niche": "",
   "scraper_timeout": 300,
   "outreach_message_subject": "I have a question...",
   "outreach_message_body_file": "outreach_message.html",
-  "assembly_ai_api_key": "",
+  "assembly_ai_api_key": "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",
   "font": "bold_font.ttf",
   "imagemagick_path": "Path to magick.exe or on linux/macOS just /usr/bin/convert",
   "script_sentence_length": 4
